@@ -1,0 +1,8 @@
+Modify your program so that it only accepts numbers between 0 and 127.
+Once you get a valid number, display the ascii character of that number.
+
+For example, if you user enters the number 115, your program would display
+ number 115 corresponds to ASCII character 's'
+
+NOTE: Make sure to finish your school homework firdt, then work on your
+programming assignments :)
